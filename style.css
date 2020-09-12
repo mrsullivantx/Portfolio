@@ -1,0 +1,14 @@
+body {
+    background-image: url(http://www.astrosurf.com/buil/iris/tutorial4/sky44.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#top {
+    background-color: white;
+}
+
+.jiij {
+    width: auto;
+    height: 200px;
+}
